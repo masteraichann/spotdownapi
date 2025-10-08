@@ -12,7 +12,7 @@ import logging
 from datetime import datetime
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from spotify_scraper import SpotifyClient
+from spotifyscraper import SpotifyClient
 import asyncio
 import httpx
 
